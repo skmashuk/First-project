@@ -1,0 +1,30 @@
+input[type=text],
+input[type=password]
+{
+    width: auto;
+    padding: 12px;
+    margin: 6px 0 20px 0;
+    background-color: antiquewhite;
+    border: none;
+}
+/* input[type=password]{
+    width: auto;
+    padding: 12px;
+    margin: 6px 0 20px 0;
+    background-color: antiquewhite;
+    border: none;
+} */
+.button{
+    padding: 15px 20px;
+    margin: 10px 0px;
+    background-color: rgb(17, 145, 49);
+    border: none;
+    cursor: pointer;
+    width: auto;
+}
+.new{
+    border: 1px solid black;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 0 16px 0 16px; 
+}
